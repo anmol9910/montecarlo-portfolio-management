@@ -238,49 +238,7 @@ python -m unittest discover -s tests
 
 ---
 
-## Contributing
 
-Contributions are highly appreciated! Please follow these guidelines:
-
-1. **Fork the Repository**: Click on the 'Fork' button at the top right corner of the repository page.
-
-2. **Create a New Branch**:
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**:
-
-   ```bash
-   git commit -am 'Add a feature'
-   ```
-
-4. **Push to the Branch**:
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**: Navigate to your forked repository and click on 'New Pull Request'.
-
----
-
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE).
-
----
-
-## Contact
-
-- **Author**: Your Name
-- **Email**: [cristianleo120@gmail.com](mailto:cristianleo120@gmail.com)
-- **GitHub**: [cristianleoo](https://github.com/cristianleoo)
-- **LinkedIn**: [cristian-leo](https://www.linkedin.com/in/cristian-leo/)
-- **Medium**: [cristianleo120](https://medium.com/@cristianleo120)
-
-Feel free to reach out for any inquiries or collaboration opportunities.
 
 ---
 
